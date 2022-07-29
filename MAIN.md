@@ -1,6 +1,6 @@
-### **Firefox Browser**
+# **Firefox Browser**
 
-# **(Addon/UserScript)**
+### **(Addon/UserScript)**
 
 * [600% Sound Volume](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/)
   >Up to 600% volume boost.
@@ -19,7 +19,7 @@
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   >An efficient wide-spectrum content blocker. Easy on CPU and memory.
 
-# **(Youtube Addons)**
+### **(Youtube Addons)**
 
 * [**Enhancer for YouTube**](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
   >Take control of YouTube and boost your user experience!

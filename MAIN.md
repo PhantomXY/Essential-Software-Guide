@@ -1,4 +1,4 @@
-## **Firefox Browser**
+## **[Firefox Browser](https://www.mozilla.org/en-US/firefox/new/)**
 
 ### **(Addon/UserScript)**
 

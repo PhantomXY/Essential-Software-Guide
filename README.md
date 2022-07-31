@@ -60,12 +60,37 @@ i have no idea what im doing (work in progress)
 
 ---
 
+### **(Raw Uncategorised)**
 
 
 
 
+* [Spotify](https://github.com/amd64fox/SpotX)
+  >Listen to music on Spotify without ads.
+* [Zoro](https://zoro.to/)
+  >Watch Anime Online for Free.
+* [Sflix](https://sflix.to/)
+  >Watch Movies Online for Free.
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
-[Spotify](https://github.com/amd64fox/SpotX)
+  -  Free Game Sites
+ 
+       - [Game3rb](https://game3rb.com/)
+
+       - [Steamunlocked](https://steamunlocked.net/)
+       
+       - [Mrpcgamer](https://mrpcgamer.co/)
+
+       - [Instagram Download Button](https://github.com/y252328/Instagram_Download_Button)
 
 
 

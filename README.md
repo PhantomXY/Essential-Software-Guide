@@ -71,16 +71,28 @@ i have no idea what im doing (work in progress)
   >Watch Anime Online for Free.
 * [Sflix](https://sflix.to/)
   >Watch Movies Online for Free.
+
+
+  -  [Plex](https://www.plex.tv/)
+     -  >Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 * []()
+  >
 * []()
+  >
 * []()
+  >
 * []()
+  >
 * []()
+  >
 * []()
+  >
 * []()
+  >
 * []()
+  >
 * []()
-* []()
+  >
 
   -  Free Game Sites
  

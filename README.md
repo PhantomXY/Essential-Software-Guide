@@ -70,14 +70,23 @@ i have no idea what im doing (work in progress)
 * [Zoro](https://zoro.to/)
   >Watch Anime Online for Free.
 * [Sflix](https://sflix.to/)
-  >Watch Movies Online for Free.
+  >Watch Movies/Series Online for Free.
 
 * [Plex](https://www.plex.tv/)
    >Your content—from live and recorded TV and personal media, to on-demand web shows, beautifully organized and ready to stream everywhere.
-  - Plex Plugins
-    - [FMovies](https://github.com/coder-alpha/FMoviesPlus.bundle)
-    - []()
+ 
+ * [Jackett](https://github.com/Jackett/Jackett/releases)
+  >A proxy server: it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious etc.) 
+ 
+* [Radarr](https://radarr.video/)
+  >Movie collection manager.
 
+* [Sonarr](https://sonarr.tv/)
+  >Series collection manager.
+
+* [Deluge](https://deluge-torrent.org/)
+  >Torrent downloading manager.
+ 
 * []()
   >
 * []()

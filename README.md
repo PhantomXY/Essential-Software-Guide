@@ -75,7 +75,7 @@ i have no idea what im doing (work in progress)
 * [Plex](https://www.plex.tv/)
    >Your content—from live and recorded TV and personal media, to on-demand web shows, beautifully organized and ready to stream everywhere.
  
- * [Jackett](https://github.com/Jackett/Jackett/releases)
+* [Jackett](https://github.com/Jackett/Jackett/releases)
   >A proxy server: it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious etc.) 
  
 * [Radarr](https://radarr.video/)

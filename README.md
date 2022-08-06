@@ -89,14 +89,19 @@ i have no idea what im doing (work in progress)
  
 * [Account Switcher](https://github.com/TcNobo/TcNo-Acc-Switcher)
   >A Superfast open-source account switcher for Steam, Battle.net, Epic Games, Origin, Riot Games, Ubisoft, and more.
+
 * [7 Seas Software](https://getintopc.com/)
   >Free Cracked software.
+
 * [Windows 10/11 activation](https://massgrave.dev/)
   >Scripts for activating Microsoft products using HWID / KMS38 / Online KMS.
+
 * [Temp Email](https://temp-mail.org/en/)
   >Free disposable email address.
+
 * [KeePassXC](https://keepassxc.org/)
   >Secure password manager.
+
 * []()
   >
 * []()
